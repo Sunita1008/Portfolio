@@ -6,7 +6,7 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 ## About Me
 
 I am a passionate web developer with a keen interest in creating interactive and user-friendly websites. I love to experiment with the latest web technologies to build visually appealing and functional web applications.
-- Link: [[Live Demo](https://sunita1008.github.io/Portfolio/)](#) | [[GitHub Repository](https://github.com/Sunita1008/Portfolio)](#)
+- Link: [[Live Demo](https://sunita1008.github.io/Portfolio/)] | [[GitHub Repository](https://github.com/Sunita1008/Portfolio)]
 ## Skills
 
 Here are some of the skills and technologies I'm proficient in:
