@@ -33,6 +33,6 @@ Here are some of the skills and technologies I'm proficient in:
 
 Feel free to get in touch with me. You can reach me at  (mailto:nandysunita08@gmail.com). Connect with me on [[LinkedIn](https://www.linkedin.com/in/sunita-nandy-b0913b202/)].
 
-Thank you for visiting my portfolio website! I'm constantly working on new projects and improving my skills. If you have any feedback or opportunities for collaboration, please don't hesitate to reach out. Your feedback is highly appreciated!
+Thank you for visiting my portfolio website! I'm constantly working on new projects and improving my skills. If you have any feedback , please don't hesitate to reach out. Your feedback is highly appreciated!
 
 
